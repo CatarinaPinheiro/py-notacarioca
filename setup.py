@@ -14,7 +14,7 @@ setup(
     license='Apache 2.0',
     description='NFSe for Rio de Janeiro city.',
     long_description=README,
-    url='https://github.com/famoraes/py-notacarioca',
+    url='https://github.com/CatarinaPinheiro/py-notacarioca',
     author='Fabiano Moraes',
-    author_email='fabiano.moraes@outlook.com'
+    author_email='catarina_pine@hotmail.com'
 )
