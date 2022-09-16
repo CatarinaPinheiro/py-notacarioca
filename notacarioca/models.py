@@ -211,7 +211,7 @@ class NFSe(object):
         return date
 
     def __init__(self, **kwargs):
-        print kwargs
+        print(kwargs)
         self.key = kwargs["CodigoVerificacao"] or None
         self.number = int(kwargs["Numero"]) or None
         self.emission_date_nfse = self._format_datetime(kwargs.get("DataEmissao"))
